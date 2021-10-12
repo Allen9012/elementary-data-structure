@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "数组形式的整数加法", "数组形式的整数加法.vcxproj", "{E282AEDC-9DE1-4D4C-BEAF-14B97E62C134}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E282AEDC-9DE1-4D4C-BEAF-14B97E62C134}.Debug|x64.ActiveCfg = Debug|x64
+		{E282AEDC-9DE1-4D4C-BEAF-14B97E62C134}.Debug|x64.Build.0 = Debug|x64
+		{E282AEDC-9DE1-4D4C-BEAF-14B97E62C134}.Debug|x86.ActiveCfg = Debug|Win32
+		{E282AEDC-9DE1-4D4C-BEAF-14B97E62C134}.Debug|x86.Build.0 = Debug|Win32
+		{E282AEDC-9DE1-4D4C-BEAF-14B97E62C134}.Release|x64.ActiveCfg = Release|x64
+		{E282AEDC-9DE1-4D4C-BEAF-14B97E62C134}.Release|x64.Build.0 = Release|x64
+		{E282AEDC-9DE1-4D4C-BEAF-14B97E62C134}.Release|x86.ActiveCfg = Release|Win32
+		{E282AEDC-9DE1-4D4C-BEAF-14B97E62C134}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A1F0D7F3-FE01-4818-BE48-D282677AE72A}
+	EndGlobalSection
+EndGlobal
