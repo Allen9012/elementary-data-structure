@@ -1,0 +1,5 @@
+﻿  test.cpp
+C:\Users\Allen\Desktop\c语言\VS2019\数据结构初阶\用队列实现栈\test.cpp(18): error C4716: “myStackPop”: 必须返回一个值
+C:\Users\Allen\Desktop\c语言\VS2019\数据结构初阶\用队列实现栈\test.cpp(26): error C4716: “myStackEmpty”: 必须返回一个值
+C:\Users\Allen\Desktop\c语言\VS2019\数据结构初阶\用队列实现栈\test.cpp(10): error C4716: “myStackCreate”: 必须返回一个值
+C:\Users\Allen\Desktop\c语言\VS2019\数据结构初阶\用队列实现栈\test.cpp(22): error C4716: “myStackTop”: 必须返回一个值
