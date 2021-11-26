@@ -1,0 +1,8 @@
+﻿  Heap.c
+  test.c
+C:\Users\Allen\Desktop\c语言\VS2019\数据结构初阶\堆1\test.c(13,18): warning C4020: “AdjustUp”: 实参太多
+  正在生成代码...
+C:\Users\Allen\Desktop\c语言\VS2019\数据结构初阶\堆1\Heap.c(104): warning C4716: “HeapTop”: 必须返回一个值
+C:\Users\Allen\Desktop\c语言\VS2019\数据结构初阶\堆1\Heap.c(108): warning C4716: “HeapSize”: 必须返回一个值
+C:\Users\Allen\Desktop\c语言\VS2019\数据结构初阶\堆1\Heap.c(112): warning C4716: “HeapEmpty”: 必须返回一个值
+  堆1.vcxproj -> C:\Users\Allen\Desktop\c语言\VS2019\数据结构初阶\堆1\Debug\堆1.exe
