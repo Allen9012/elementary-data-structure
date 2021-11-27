@@ -31,7 +31,7 @@ void QueuePush(Queue* pq, QDataType x)
 	}
 	newnode->data = x;
 	newnode->next = NULL;
-	if (pq->head == NULL)//如果一个节点都没有
+	if (pq->tail == NULL)//如果一个节点都没有
 	{
 		pq->head = pq->tail = newnode;
 	}
